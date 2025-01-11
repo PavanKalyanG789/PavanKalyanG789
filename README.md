@@ -65,7 +65,7 @@ I enjoy solving complex data challenges and leveraging tools like Spark, PySpark
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
 
-![AI](https://github.com/user-attachments/assets/0452a39f-4ae3-4145-870c-f973df98cd1f)
+<img src="https://github.com/user-attachments/assets/0452a39f-4ae3-4145-870c-f973df98cd1f" alt="AWS certified AI Practitioner - Associate" width="300" height="250">
 
-![DE](https://github.com/user-attachments/assets/e68e79a1-c5de-4171-99a1-8dfd37c3dc3d)
+<img src="https://github.com/user-attachments/assets/e68e79a1-c5de-4171-99a1-8dfd37c3dc3d" alt="AWS certified Data Engineer - Associate" width="300" height="250">
 
