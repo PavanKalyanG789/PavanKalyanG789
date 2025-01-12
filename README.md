@@ -60,7 +60,7 @@ I enjoy solving complex data challenges and leveraging tools like Spark, PySpark
 ---
 
 ## 🤝 Connect with Me
-- *LinkedIn*: https://www.linkedin.com/in/pavan-kalyan-493730208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- *LinkedIn*: [pavan-kalyan](https://www.linkedin.com/in/pavan-kalyan-493730208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - *Email*: Pavankalyang789@gmail.com
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
