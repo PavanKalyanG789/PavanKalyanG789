@@ -48,7 +48,7 @@ I enjoy solving complex data challenges and leveraging tools like Spark, PySpark
 - *Data Warehousing*: Star Schema, Fact/Dimension Tables, Data Marts  
 - *Automation*: Jupyter Notebooks, Airflow (learning stage)  
 - *DevOps*: CI/CD Pipelines, Kubernetes  
-- *Visualization*: Tableau, Matplotlib  
+- *Visualization*: Tableau , Matplotlib  
 
 ---
 
@@ -64,6 +64,8 @@ I enjoy solving complex data challenges and leveraging tools like Spark, PySpark
 - *Email*: Pavankalyang789@gmail.com
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
+
+Tableau - [dashboard](https://public.tableau.com/views/Hranalytics_17471210690580/HRAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/user-attachments/assets/0452a39f-4ae3-4145-870c-f973df98cd1f" alt="AWS certified AI Practitioner - Associate" width="300" height="250">
 
