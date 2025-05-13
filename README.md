@@ -1,5 +1,5 @@
 
-Welcome to my GitHub! I am **Pavan Kalyan G**, a passionate **Data Engineer** with around 3 years of experience in building scalable data pipelines, optimizing big data workflows, and ensuring data quality. 
+Welcome to my GitHub! I am **Pavan Kalyan G**, a passionate **Data Engineer** with around 3+ years of experience in building scalable data pipelines, optimizing big data workflows, and ensuring data quality. 
 I enjoy solving complex data challenges and leveraging tools like Spark, PySpark, and SQL to deliver efficient solutions.
 
 ---
@@ -46,7 +46,7 @@ I enjoy solving complex data challenges and leveraging tools like Spark, PySpark
 - *Languages*: Python, SQL, Shell Scripting  
 - *Big Data Tools*: Apache Spark, PySpark  
 - *Data Warehousing*: Star Schema, Fact/Dimension Tables, Data Marts  
-- *Automation*: Jupyter Notebooks, Airflow (learning stage)  
+- *Automation*: Jupyter Notebooks, Airflow
 - *DevOps*: CI/CD Pipelines, Kubernetes  
 - *Visualization*: Tableau , Matplotlib  
 
@@ -62,10 +62,10 @@ I enjoy solving complex data challenges and leveraging tools like Spark, PySpark
 ## 🤝 Connect with Me
 - *LinkedIn*: [pavan-kalyan](https://www.linkedin.com/in/pavan-kalyan-493730208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - *Email*: Pavankalyang789@gmail.com
+- *Tableau*: [Dashboard/HR_Analytics](https://public.tableau.com/views/Hranalytics_17471210690580/HRAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
-
-Tableau - [dashboard](https://public.tableau.com/views/Hranalytics_17471210690580/HRAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/user-attachments/assets/0452a39f-4ae3-4145-870c-f973df98cd1f" alt="AWS certified AI Practitioner - Associate" width="300" height="250">
 
